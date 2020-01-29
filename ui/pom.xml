@@ -183,8 +183,8 @@
 			</activation>
 			<properties>
 				<jdk.version>13</jdk.version>
-				<javafx.version>12</javafx.version>
-				<openjfx.version>12.0.1</openjfx.version>
+				<javafx.version>15</javafx.version>
+				<openjfx.version>15-ea+1</openjfx.version>
 			</properties>
 		</profile>
 	</profiles>
